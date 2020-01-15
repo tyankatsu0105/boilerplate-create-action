@@ -1,5 +1,5 @@
-name: 'labeler-base-on-branch-name'
-description: 'Pull request labeler triages PRs based on the branch name.'
+name: 'boilerplate-create-action'
+description: 'Boilerplate for creating github action'
 author: 'tyankatsu'
 inputs:
   myInput:              # change this

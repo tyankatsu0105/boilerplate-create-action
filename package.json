@@ -1,20 +1,20 @@
 {
-  "name": "labeler-base-on-branch-name",
+  "name": "boilerplate-create-action",
   "version": "0.0.0",
   "private": true,
-  "description": "Pull request labeler triages PRs based on the branch name.",
+  "description": "Boilerplate for creating github action",
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "homepage": "https://github.com/tyankatsu0105/labeler-base-on-branch-name#readme",
+  "homepage": "https://github.com/tyankatsu0105/boilerplate-create-action#readme",
   "bugs": {
-    "url": "https://github.com/tyankatsu0105/labeler-base-on-branch-name/issues"
+    "url": "https://github.com/tyankatsu0105/boilerplate-create-action/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tyankatsu0105/labeler-base-on-branch-name.git"
+    "url": "git+https://github.com/tyankatsu0105/boilerplate-create-action.git"
   },
   "license": "MIT",
   "author": "tyankatsu <frips.ryilsufupe+dev@gmail.com> (https://tyankatsu.netlify.com/)",
